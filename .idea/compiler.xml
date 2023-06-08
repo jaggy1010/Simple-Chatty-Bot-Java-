@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-Arithmetic_expression_main" target="1.8" />
+      <module name="Problems-Arithmetic_expression_test" target="1.8" />
+      <module name="Problems-Fizz_Buzz_main" target="1.8" />
+      <module name="Problems-Fizz_Buzz_test" target="1.8" />
+      <module name="Problems-Numbers_divisible_by_six_main" target="1.8" />
+      <module name="Problems-Numbers_divisible_by_six_test" target="1.8" />
+      <module name="Problems-Printing_only_the_longest_line_main" target="1.8" />
+      <module name="Problems-Printing_only_the_longest_line_test" target="1.8" />
+      <module name="Problems-Size_of_parts_main" target="1.8" />
+      <module name="Problems-Size_of_parts_test" target="1.8" />
+      <module name="Simple_Chatty_Bot__Java_-task_main" target="1.8" />
+      <module name="Simple_Chatty_Bot__Java_-task_test" target="1.8" />
+      <module name="util_main" target="1.8" />
+      <module name="util_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+hyperskill_project:
+  id: 113
+  ide_files: https://cogniterra.org/media/attachments/lesson/24958/additional_files.json
+  is_template_based: true
+stages:
+- id: 614
+  step: 9925
+- id: 615
+  step: 9926
+- id: 616
+  step: 9927
+- id: 617
+  step: 9928
+- id: 618
+  step: 9929
